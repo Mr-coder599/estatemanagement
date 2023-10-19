@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67917626558",
+    "project_id": "estatedb-6635b",
+    "storage_bucket": "estatedb-6635b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67917626558:android:a035c4e160f767c89b32ef",
+        "android_client_info": {
+          "package_name": "com.example.estatemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67917626558-nq9jjo4kb642qssn9sqmidgptnvs4a34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezs6WwHTzJxs7xv0j9vX60GMiE8WJLtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67917626558-nq9jjo4kb642qssn9sqmidgptnvs4a34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
